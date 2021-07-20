@@ -2,14 +2,17 @@
 
 👋 Hi, I'm Rami Ali, a passionate full stack web & mobile apps developer from Iraq.
 
-[![rami ali1998's github stats](https://github-readme-stats.vercel.app/api?username=ramiali1998&count_private=true&show_icons=true&theme=radical)](https://github.com/ramiali1998)
-
+ ## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=ramiali1998&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramiali1998&theme=radical"/>|
+|---|---|
 ### About
 
 -  **Languages :**  JavaScript,Dart,Python,PHP,C#,C++
 -  **Frameworks:**  flutter,React,next.js,Laravel
 
 -  **Contact me :** [RamiAli-Linkedin](https://www.linkedin.com/in/rami-ali1998)
+
+
 
 
 ### Languages and Tools
