@@ -1,6 +1,6 @@
 
 
-👋 Hi, I'm Rami Ali, a passionate full stack web & mobile apps developer from Iraq.
+👋 Hi, I'm Rami Ali,full stack web & mobile apps developer from Iraq.
 
 
  ## MY GIT STATS
