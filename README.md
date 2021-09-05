@@ -3,9 +3,7 @@
 👋 Hi, I'm Rami Ali,full stack web & mobile apps developer from Iraq.
 
 
- ## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=ramiali1998&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramiali1998&theme=radical"/>|
-|---|---|
+ 
 ### About
 
 -  **Languages :**  JavaScript,Dart,Python,PHP,C#,C++
